@@ -5,7 +5,6 @@
 node_modules/
 
 # Builds / Caches
-dist/
 coverage/
 .histoire/
 *.tsbuildinfo
